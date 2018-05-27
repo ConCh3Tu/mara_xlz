@@ -10,12 +10,12 @@ $id = array(
  'email'=>'marahostelperu@gmail.com',       
  'tel_movil' => '+51 984072551',
  'tel_fijo' => '+51 00000',
- '.ref_0' => 'index.php',
- '.ref_1' => 'rooms.php',
- '.ref_2' => 'services.php',
- '.ref_3' => 'gallery.php',
- '.ref_4' => 'location.php',
- '.ref_5' => 'contact.php',
+ '.ref_0' => 'index',
+ '.ref_1' => 'rooms',
+ '.ref_2' => 'services',
+ '.ref_3' => 'gallery',
+ '.ref_4' => 'location',
+ '.ref_5' => 'contact',
 
  '.href_nav_0' => 'index',
  '.nav_0' => 'inicio',
@@ -87,7 +87,7 @@ $id = array(
 '.water' => 'Ducha de agua caliente.',
 
 '#services' => 'NUESTROS SERVICIOS',
-'.descservi' => 'Los espacios comunes hacen la diferencia en La Casa de Sillar, experimentando una estancia diferente, en donde la calidez de su personal le harán sentir como en casa.',
+'.descservi' => 'Los espacios comunes hacen la diferencia en Mara Hostel Perú, experimentando una estancia diferente, en donde la calidez de su personal le harán sentir como en casa.',
 
 'serv1' => 'COCINA COMÚN',
 'serv2' => 'SALA COMÚN',
